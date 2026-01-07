@@ -31,7 +31,7 @@
   <script>
     // Beispiel-Spiele (ersetze die URLs mit deinen eigenen Spielen)
     const games = [
-      { title: 'Flappy Clone', url: https://hotgames.io/soflo-wheelie-life },
+      { title: 'Flappy Clone', url: [text](https://hotgames.io/soflo-wheelie-life) },
       { title: 'Hextris', url: 'https://hextris.io/' },
       { title: '2048', url: 'https://play2048.co/' }
     ];
